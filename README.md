@@ -1,14 +1,9 @@
 # Project Name: *todo-app-react-redux-express*
-
 ### Project Deployment:
 1) Firstly, you should run server >>>>> <code>todo-app-react-redux-express\api> npm start</code>
 2) Secondly, after server running, click > [Heroku](https://todo-app-react-redux-express.herokuapp.com/)
 ### Project Main Goal: 
 - Building a project with React-Redux &  Redux-Toolkit & Express, experiencing how to handle complex state management with React-Redux and how to prepare an api with Express
-### Completed: 
-- Yes
-### Notes:
-- 
 ### Frameworks/Libraries:
 - React, React-Redux, Redux-Toolkit, Express, Axios
 ### Database:
