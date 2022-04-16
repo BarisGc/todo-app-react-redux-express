@@ -1,4 +1,4 @@
-# Project Name: *todo-app-react-redux-express*
+# Project Name: *Todo-App-React-Redux-Express*
 ### Project Deployment:
 1) Firstly, you should run server >>>>> <code>todo-app-react-redux-express\api> npm start</code>
 2) Secondly, after server running, click > [Heroku](https://todo-app-react-redux-express.herokuapp.com/)
